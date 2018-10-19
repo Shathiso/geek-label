@@ -1,0 +1,16 @@
+name = Geek Label Theme
+description = A theme for the Geek Label website, which is based on the bootstrap theme.
+core = 7.x
+base theme = bootstrap
+
+stylesheets[all][] = css/style.css
+
+regions[carousel] = Carousel
+regions[content-top] = Content Top
+regions[content] = Content
+regions[content-middle] = Content middle
+regions[content-bottom] = Content Bottom
+regions[services] = Services
+regions[clients] = Clients
+regions[find-us] = Find Us
+regions[contacts] = Contacts
